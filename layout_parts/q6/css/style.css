@@ -48,7 +48,6 @@
 /* flex */
 .flex-content {
   display: flex; 
-  flex-direction: column; 
   justify-content: center;
   align-items: center; 
 }
@@ -86,4 +85,3 @@
 }
 
 /* 回答はここに書いてね */
- 

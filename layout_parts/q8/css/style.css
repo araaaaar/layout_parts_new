@@ -4,7 +4,6 @@
 /* button */
 .button-box {
   text-align: center;
-  cursor: pointer;
 }
 
 .btn {
@@ -15,11 +14,13 @@
 .button-common {
   background-color: #00BCD4;
   color: #FFF;
+  cursor: pointer;
 }
 
 .button-error {
   background-color: #FF4081;
   color: #FFF;
+  cursor: pointer;
 }
 
 .button-disabled {
@@ -33,6 +34,7 @@
   box-shadow: 0 1px 6px rgba(0, 0, 0, .12), 
   0 1px 4px rgba(0, 0, 0, .12);
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .small-button {

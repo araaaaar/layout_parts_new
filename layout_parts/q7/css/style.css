@@ -7,7 +7,7 @@
 }
 
 /* float */
-.clearfix:after {  /* ::→: */
+.clearfix:after {
   display: block;
   content: "";
   clear: both;
@@ -30,15 +30,14 @@
 }
 
 .tablebox {
-  display: table-cell; /*:の後半角空けた */
+  display: table-cell; 
   vertical-align: middle;
   width: 225px;
-  margin-left: 50px; /*paddingからmarginに変更*/
-  box-sizing: border-box; /*追加*/
+  padding-left: 50px;
 }
 
 .tablebox:first-child {
-  margin-left: 0;/*paddingからmarginに変更*/
+  padding-left: 0;
 }
 
 /* inline-block */

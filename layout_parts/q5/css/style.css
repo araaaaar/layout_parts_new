@@ -19,11 +19,8 @@
   margin: 0;
   width: 100px;
   height: 100px; 
-}
-
-.box-main {
   position: absolute;
-} 
+}
 
 .box1 {
   background-color: #ffefd3;
